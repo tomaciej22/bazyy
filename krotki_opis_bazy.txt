@@ -1,0 +1,3 @@
+Baza przechowuje dane pracowników, informacje o surowcach oraz oddziałach nalezących do KGHM.
+Baze projektowałem tylko dla Polski, nie wzorowałem się zagranicznymi oddziałami.
+Baza posiada 20 tabel połączonych ze sobą w odpowieni sposób.
